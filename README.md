@@ -1,14 +1,5 @@
 # тест на вакансию Junior Java Developer
 
-Привет!
-
-Приятно познакомиться и спасибо за интерес к нашей команде :)
-Приглашаем тебя решить тестовое задание на позицию по ссылке: https://forms.gle/SEgMSNpmRhdXY5hd8. В случае успешного выполнения, мы с тобой свяжемся для согласования дальнейших этапов.
-
-С уважением,
-Михайлова Анастасия
-
-
 We have a wooden plank of the length n units. Two ants are walking on the plank, each ant moves with a speed of 1 unit per round. One ant moves to the left, the other moves to the right. At one round, each ant makes a move. Ant walking to the left moves first.
 
 
@@ -33,4 +24,15 @@ Constraints:
 left != right
 ![1-2.png](src%2Fmain%2Fresources%2F1-2.png)
 ![3-4.png](src%2Fmain%2Fresources%2F3-4.png)
+
 Код программы на Java, в котором есть метод, принимающий значения n, left, right, и возвращающий по заданным данным правильный ответ по условию задачи.
+
+
+
+[//]: # (Привет!)
+[//]: # (Приятно познакомиться и спасибо за интерес к нашей команде :&#41;)
+[//]: # (Приглашаем тебя решить тестовое задание на позицию по ссылке: https://forms.gle/SEgMSNpmRhdXY5hd8. В случае успешного выполнения, мы с тобой свяжемся для согласования дальнейших этапов.)
+[//]: # (С уважением,)
+[//]: # (Михайлова Анастасия)
+
+
